@@ -18,6 +18,7 @@ namespace _20_10_2021
             System.Console.WriteLine("Update information done! Bidder");
             System.Console.WriteLine("Cost: $" + VaseData.Cost);
             System.Console.WriteLine("Information: " + VaseData.Infor);
+            System.Console.WriteLine("Information: 111111111");
         }
     }
 }
