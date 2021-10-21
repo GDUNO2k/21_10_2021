@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\14_09_2021\\Code\\20_10_2021\\20_10_2021.csproj": {}
+    "E:\\Github\\21_10_2021\\20_10_2021\\20_10_2021.csproj": {}
   },
   "projects": {
-    "E:\\14_09_2021\\Code\\20_10_2021\\20_10_2021.csproj": {
+    "E:\\Github\\21_10_2021\\20_10_2021\\20_10_2021.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\14_09_2021\\Code\\20_10_2021\\20_10_2021.csproj",
+        "projectUniqueName": "E:\\Github\\21_10_2021\\20_10_2021\\20_10_2021.csproj",
         "projectName": "20_10_2021",
-        "projectPath": "E:\\14_09_2021\\Code\\20_10_2021\\20_10_2021.csproj",
+        "projectPath": "E:\\Github\\21_10_2021\\20_10_2021\\20_10_2021.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\14_09_2021\\Code\\20_10_2021\\obj\\",
+        "outputPath": "E:\\Github\\21_10_2021\\20_10_2021\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"

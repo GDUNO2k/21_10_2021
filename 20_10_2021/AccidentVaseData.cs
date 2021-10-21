@@ -51,5 +51,10 @@ namespace _20_10_2021
         {
             Update();
         }
+
+        public override string ToString()
+        {
+            return "Cost: " + cost + " Information: " + infor;
+        }
     }
 }

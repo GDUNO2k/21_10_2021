@@ -12,5 +12,7 @@ namespace _20_10_2021
         public abstract void DeleteObserver(Observer observer);
 
         public abstract void Update();
+
+        public abstract string ToString();
     }
 }
